@@ -1,0 +1,14 @@
+{
+    "name": "fari/labhello",
+    "description": "pembuatan library sederhana",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Muhammad Fahri",
+            "email": "fahri29mkt@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
